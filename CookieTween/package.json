@@ -1,0 +1,10 @@
+{
+  "name": "com.cookietween.tweenlibrary",
+  "version": "1.0.1",
+  "displayName": "Cookie Tween",
+  "description": "A tween libray",
+  "unity": "2020.3",
+  "keywords": [ "tween", "cookie", "cookietween", "library", "motion", "anim" ],
+  "author": { "name": "DevCookie" },
+  "type": "libray"
+}
