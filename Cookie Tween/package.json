@@ -1,0 +1,14 @@
+{
+  "name": "com.devcookie.cookietweenlibrary",
+  "version": "1.0.0",
+  "displayName": "Cookie Tween",
+  "description": "A package containing tween functionality.",
+  "unity": "2020.2",
+  "dependencies": {},
+  "keywords": ["library","cookie","Tween"],
+  "author": {
+    "name": "Dev Cookie",
+    "email": "darkfishiarts@gmail.com", 
+    "url": "http://notarealsitetesting.com"
+  }
+}
